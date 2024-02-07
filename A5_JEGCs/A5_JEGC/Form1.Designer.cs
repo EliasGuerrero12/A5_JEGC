@@ -375,7 +375,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::A5_JEGC.Properties.Resources.logo_kurai;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(799, 449);
             this.Controls.Add(this.LblSushiType);
             this.Controls.Add(this.GbMenu);
             this.Controls.Add(this.GbOrderData);
